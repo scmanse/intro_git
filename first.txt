@@ -5,3 +5,4 @@ test
 /git add
 /git commit
 add
+git stats
